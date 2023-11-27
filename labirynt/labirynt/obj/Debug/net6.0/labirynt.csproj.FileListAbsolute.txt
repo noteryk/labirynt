@@ -1,0 +1,14 @@
+C:\Users\error\source\repos\labirynt\labirynt\bin\Debug\net6.0\labirynt.exe
+C:\Users\error\source\repos\labirynt\labirynt\bin\Debug\net6.0\labirynt.deps.json
+C:\Users\error\source\repos\labirynt\labirynt\bin\Debug\net6.0\labirynt.runtimeconfig.json
+C:\Users\error\source\repos\labirynt\labirynt\bin\Debug\net6.0\labirynt.dll
+C:\Users\error\source\repos\labirynt\labirynt\bin\Debug\net6.0\labirynt.pdb
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.AssemblyInfoInputs.cache
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.AssemblyInfo.cs
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.dll
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\refint\labirynt.dll
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.pdb
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\labirynt.genruntimeconfig.cache
+C:\Users\error\source\repos\labirynt\labirynt\obj\Debug\net6.0\ref\labirynt.dll
